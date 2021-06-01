@@ -4,4 +4,4 @@ idna==2.6
 py-json-rpc==0.0.6
 requests==2.18.4
 tornado==5.0.1
-urllib3==1.22
+urllib3==1.26.5
